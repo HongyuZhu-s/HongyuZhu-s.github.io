@@ -12,11 +12,11 @@ I am a graduate student majoring in Software Engineering at Chongqing Technology
 # Experiences 📝
 * _2018.09-2022.06_ , bachelor’s degree (学士) | Chongqing Technology and Business University
 
-* **_2022.09-2025.06 (now)_ , master’s degree (硕士) | Chongqing Technology and Business University**
+* _2022.09-2025.06 (now)_ , master’s degree (硕士) | Chongqing Technology and Business University
 
 * _2023.09-2024.09_ , Research Intern | Chongqing Financial Institute
 
-* **_2024.09-2025.06 (now)_ , Research Intern | Westlake University**
+* _2024.09-2025.06 (now)_ , Research Intern | Westlake University
 
 <br/>
 
