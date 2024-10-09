@@ -27,7 +27,7 @@ _(*: Equal Contribution. †: Corresponding Author.)_
 
 * **A Survey on Mixup Augmentations and Beyond** 
 
-Xin Jin*, **Hongyu Zhu***, Siyuan Li*, Zedong Wang, Zicheng Liu, Chang Yu, Huafeng Qin, and IEEE Fellow Stan. Z. Li†
+Xin Jin *, **Hongyu Zhu** *, Siyuan Li *, Zedong Wang, Zicheng Liu, Chang Yu, Huafeng Qin, and IEEE Fellow Stan. Z. Li†
 
 arXiv, 2024 [Submit to TKDE] [[PDF](https://arxiv.org/pdf/2409.05202)]
 
@@ -57,7 +57,7 @@ arXiv, 2024 [Submit to TIM (Major Revision)] [[PDF](https://arxiv.org/pdf/2401.0
 
 * **SUMix: Mixup with Semantic and Uncertain Information**
 
-Huafeng Qin*<sup>,</sup>†, Xin Jin*, **Hongyu Zhu***, Hongchao Liao, Mounim A. El-Yacoubi, IEEE Fellow Xinbo Gao
+Huafeng Qin * <sup>,</sup>†, Xin Jin *, **Hongyu Zhu** *, Hongchao Liao, Mounim A. El-Yacoubi, IEEE Fellow Xinbo Gao
 
 *ECCV 2024* [[PDF](https://arxiv.org/pdf/2407.07805)]
 
@@ -65,7 +65,7 @@ Huafeng Qin*<sup>,</sup>†, Xin Jin*, **Hongyu Zhu***, Hongchao Liao, Mounim A.
 
 * **StarLKNet: Star Mixup with Large Kernel Networks for Palm Vein Identification**
 
-Xin Jin*, **Hongyu Zhu***, Mounim A. El-Yacoubi, Hongchao Liao, Huafeng Qin, and Yun Jiang†
+Xin Jin *, **Hongyu Zhu** *, Mounim A. El-Yacoubi, Hongchao Liao, Huafeng Qin, and Yun Jiang†
 
 arXiv, 2024 [Submit to AAAI] [[PDF](https://arxiv.org/pdf/2405.12721)]
 
@@ -74,7 +74,7 @@ arXiv, 2024 [Submit to AAAI] [[PDF](https://arxiv.org/pdf/2405.12721)]
 
 * **Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition**
 
-**Hongyu Zhu***, Xin Jin*, Hongchao Liao, Yan Xiang, Mounim A. El-Yacoubi, Huafeng Qin†
+**Hongyu Zhu** *, Xin Jin *, Hongchao Liao, Yan Xiang, Mounim A. El-Yacoubi, Huafeng Qin†
 
 **CCBR 2024**  [[PDF](https://arxiv.org/pdf/2409.11652)]
 
