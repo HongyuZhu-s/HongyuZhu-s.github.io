@@ -3,9 +3,7 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I am a graduate student majoring in Software Engineering at Chongqing Technology and Business University (重庆工商大学), focusing on the algorithm design in Deep Learning. I am interested in **Biometric Identification** and **Data Augmentation**. My current work focuses on Eye movement Recoognition, Vein Identification, and Mixup Data Augmentation.
 
 <br/>
 
