@@ -12,7 +12,7 @@ I am a graduate student majoring in Software Engineering at Chongqing Technology
 # Experiences 📝
 * _2018.09-2022.06_ , bachelor’s degree (学士) | Chongqing Technology and Business University
 
-* **_2022.09-2025.06 (now)_ , master’s degree (硕士), Advisor: Prof. Huafeng Qin | Chongqing Technology and Business University**
+* **_2022.09-2025.06 (now)_ , master’s degree (硕士) | Chongqing Technology and Business University**
 
 * _2023.09-2024.09_ , Research Intern | Chongqing Financial Institute
 
@@ -21,12 +21,11 @@ I am a graduate student majoring in Software Engineering at Chongqing Technology
 <br/>
 
 # Publication 📖 (Lead Author) 
-(*: Equal Contribution. †: Corresponding Author.)
+_(*: Equal Contribution. †: Corresponding Author.)_
 
-Journals:
-------
+## Journals:
 
-**A Survey on Mixup Augmentations and Beyond** 
+* **A Survey on Mixup Augmentations and Beyond** 
 
 Xin Jin*, **Hongyu Zhu***, Siyuan Li*, Zedong Wang, Zicheng Liu, Chang Yu, Huafeng Qin, and IEEE Fellow Stan. Z. Li†
 
@@ -36,7 +35,7 @@ arXiv, 2024 [Submit to TKDE] [[PDF](https://arxiv.org/pdf/2409.05202)]
 
 
 
-**EmMixformer: Mix transformer for eye movement recognition**
+* **EmMixformer: Mix transformer for eye movement recognition**
 
 Huafeng Qin†, **Hongyu Zhu**, Xin Jin, Qun Song, Senior member, IEEE Mounim A. El-Yacoubi, and Fellow, IEEE Xinbo Gao.
 
@@ -46,7 +45,7 @@ arXiv, 2024 [Submit to TIM (Major Revision)] [[PDF](https://arxiv.org/pdf/2401.0
 
 
 
-**EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition**
+* **EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition**
 
  Huafeng Qin†, **Hongyu Zhu**, Xin Jin, Xin Yu, Mounim A. El-Yacoubi, and Fellow, IEEE Xinbo Gao 
 
@@ -54,10 +53,9 @@ arXiv, 2024 [Submit to TIM (Major Revision)] [[PDF](https://arxiv.org/pdf/2401.0
 
  
 
-Conferences:
------
+## Conferences:
 
-**SUMix: Mixup with Semantic and Uncertain Information**
+* **SUMix: Mixup with Semantic and Uncertain Information**
 
 Huafeng Qin*<sup>,</sup>†, Xin Jin*, **Hongyu Zhu***, Hongchao Liao, Mounim A. El-Yacoubi, IEEE Fellow Xinbo Gao
 
@@ -65,7 +63,7 @@ Huafeng Qin*<sup>,</sup>†, Xin Jin*, **Hongyu Zhu***, Hongchao Liao, Mounim A.
 
 
 
-**StarLKNet: Star Mixup with Large Kernel Networks for Palm Vein Identification**
+* **StarLKNet: Star Mixup with Large Kernel Networks for Palm Vein Identification**
 
 Xin Jin*, **Hongyu Zhu***, Mounim A. El-Yacoubi, Hongchao Liao, Huafeng Qin, and Yun Jiang†
 
@@ -74,9 +72,33 @@ arXiv, 2024 [Submit to AAAI] [[PDF](https://arxiv.org/pdf/2405.12721)]
 
 
 
-**Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition**
+* **Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition**
 
 **Hongyu Zhu***, Xin Jin*, Hongchao Liao, Yan Xiang, Mounim A. El-Yacoubi, Huafeng Qin†
 
 **CCBR 2024**  [[PDF](https://arxiv.org/pdf/2409.11652)]
+
+
+# Patent 📝
+* **一种基于Transformer和LSTM混合网络的眼动识别方法**
+
+发明(设计)人：秦华锋，**朱泓宇**，金 鑫，吴燚权，廖洪超，章勤，杨开元
+
+[申请号：CN202410147131.6 (实质审查)]
+
+
+* **一种基于对抗学习的多样本AutoMix数据增强方法和系统**
+  
+发明(设计)人：秦华锋，金 鑫，**朱泓宇**，廖洪超，李海洋，杨开元
+
+[申请号：CN202311740017.6 (实质审查)]
+
+
+# Awards 🏆 
+* **National Second Prize** of the National College Student Intelligent Car Competition. _2021.09_
+* Second Prize of National University Student Mathematical Modeling Competition Chongqing Region. _2021.12_
+* Silver Prize in the 14th “Challenge Cup” Chongqing Municipal Selection Competition. _2024.07_
+* Silver Award in the China International Student Innovation Competition (2024) Chongqing. _2024.08_
+
+
 
