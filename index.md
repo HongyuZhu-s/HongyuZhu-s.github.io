@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I am a graduate student majoring in Software Engineering at Chongqing Technology and Business University (重庆工商大学), focusing on the algorithm design in Deep Learning. Supervised by Prof. [Huafeng Qin](https://scholar.google.com/citations?user=5jvXcJ0AAAAJ&hl=zh-CN). I am interested in **Biometric Identification** and **Data Augmentation**. My current work focuses on Eye movement Recoognition, Vein Identification, and Mixup Data Augmentation.
+I am a graduate student majoring in Software Engineering at Chongqing Technology and Business University, focusing on the algorithm design in Deep Learning. Supervised by Prof. [Huafeng Qin](https://scholar.google.com/citations?user=5jvXcJ0AAAAJ&hl=zh-CN). I am interested in **Biometric Identification** and **Data Augmentation**. My current work focuses on Eye movement Recoognition, Vein Identification, and Mixup Data Augmentation.
 
 <i><b><font size=2px>Welcome to contacting me about research. Please drop me emails (zhuhongyu@ctbu.edu.cn) or WeChat me (DoDoDoDoDoZh).</font></b></i>
 
