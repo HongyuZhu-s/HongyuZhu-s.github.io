@@ -1,13 +1,13 @@
 # Site settings
-title: M.S
-baseurl: "/M.S"
+title: Hongyu Zhu's HomePage
+# baseurl: "/M.S"
 url: "https://HongyuZhu-s.github.io"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+# google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Hongyu Zhu
-  desc: Hello! This is Hongyu Zhu's HomePage
+  name: Hongyu Zhu (朱泓宇)
+  desc: M.S. Candidate | Chongqing, China
   email: 734570533@qq.com
   selfie: assets/img/profile.jpg
 
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
-  google_plus:
+  github: HongyuZhu-s
+  google_scholar: citations?user=P-QctiYAAAAJ&hl=zh-CN
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  # linkedin: https://www.linkedin.com/in/kssim/ 
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter:
   vimeo:
   wordpress:
   youtube:
