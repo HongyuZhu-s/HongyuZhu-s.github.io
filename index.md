@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-# About Me
+# About Me （Updated January 2025）
 I am a graduate student majoring in Software Engineering at Chongqing Technology and Business University, focusing on the algorithm design in Deep Learning. Supervised by Prof. [Huafeng Qin](https://scholar.google.com/citations?user=5jvXcJ0AAAAJ&hl=zh-CN). I am interested in **Biometric Identification** and **Data Augmentation**. My current work focuses on Eye movement Recoognition, Vein Identification, and Mixup Data Augmentation.
 
 <i><b><font size=2px>Welcome to contacting me about research. Please drop me emails (zhuhongyu@ctbu.edu.cn) or WeChat me (DoDoDoDoDoZh).</font></b></i>
@@ -16,7 +16,7 @@ I am a graduate student majoring in Software Engineering at Chongqing Technology
 
 * _2023.09-2024.09_ , Research Intern | Chongqing Financial Institute
 
-* _2024.09-2025.06 (now)_ , Research Intern | Westlake University
+* _2024.06-2024.09_ , Research Intern | Westlake University
 
 <br/>
 
@@ -24,6 +24,14 @@ I am a graduate student majoring in Software Engineering at Chongqing Technology
 _(*: Equal Contribution. †: Corresponding Author.)_
 
 ## Journals:
+
+* **EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition**
+
+ Huafeng Qin†, **Hongyu Zhu**, Xin Jin, Xin Yu, Mounim A. El-Yacoubi, and Shuqiang Yang
+
+ IEEE Transactions on Instrumentation and Measurement, 2025 [[PDF](https://arxiv.org/pdf/2409.14432)]
+
+
 
 * **A Survey on Mixup Augmentations and Beyond** 
 
@@ -39,17 +47,9 @@ arXiv, 2024 [Submit to TKDE] [[PDF](https://arxiv.org/pdf/2409.05202)]
 
 Huafeng Qin†, **Hongyu Zhu**, Xin Jin, Qun Song, Senior member, IEEE Mounim A. El-Yacoubi, and Fellow, IEEE Xinbo Gao.
 
-arXiv, 2024 [Submit to TIM (Major Revision)] [[PDF](https://arxiv.org/pdf/2401.04956)]
+arXiv, 2024 [Submit to TIM (Minor Revision)] [[PDF](https://arxiv.org/pdf/2401.04956)]
 
 
-
-
-
-* **EM-DARTS: Hierarchical Differentiable Architecture Search for Eye Movement Recognition**
-
- Huafeng Qin†, **Hongyu Zhu**, Xin Jin, Xin Yu, Mounim A. El-Yacoubi, and Fellow, IEEE Xinbo Gao 
-
- arXiv, 2024 [Submit to TIM] [[PDF](https://arxiv.org/pdf/2409.14432)]
 
  
 
