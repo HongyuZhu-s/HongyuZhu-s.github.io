@@ -3,20 +3,22 @@ layout: about
 ---
 
 # About Me （Updated January 2025）
-I am a graduate student majoring in Software Engineering at Chongqing Technology and Business University, focusing on the algorithm design in Deep Learning. Supervised by Prof. [Huafeng Qin](https://scholar.google.com/citations?user=5jvXcJ0AAAAJ&hl=zh-CN). I am interested in **Biometric Identification** and **Data Augmentation**. My current work focuses on Eye movement Recoognition, Vein Identification, and Mixup Data Augmentation.
+I am a doctoral student majoring in computer science at the Chongqing Green Intelligent Institute of **the Chinese Academy of Sciences University**, focusing on the algorithm design in Deep Learning. I am interested in **Multimodal Sentiment Analysis** and **Data Augmentation**.
 
-<i><b><font size=2px>Welcome to contacting me about research. Please drop me emails (zhuhongyu@ctbu.edu.cn) or WeChat me (DoDoDoDoDoZh).</font></b></i>
+<i><b><font size=2px>Welcome to contacting me about research. Please drop me emails (734570533@qq.com) or WeChat me (DoDoDoDoDoZh).</font></b></i>
 
 <br/>
 
 # Experiences 📝
-* _2018.09-2022.06_ , bachelor’s degree (学士) | Chongqing Technology and Business University
+* _2018.09-2022.06_ , Bachelor’s degree (学士) | Chongqing Technology and Business University
 
-* _2022.09-2025.06 (now)_ , master’s degree (硕士) | Chongqing Technology and Business University
+* _2022.09-2025.06_ , Master’s degree (硕士) | Chongqing Technology and Business University
 
-* _2023.09-2024.09_ , Research Intern | Chongqing Financial Institute
+* _2023.09-2024.09_ , Research Intern | Chongqing Financial Technology Research Institute
 
 * _2024.06-2024.09_ , Research Intern | Westlake University
+  
+* _2025.09-   now   , Doctor's degree (博士) | Univerity of Chinese Academy of Sciences       
 
 <br/>
 
@@ -47,7 +49,7 @@ arXiv, 2024 [Submit to TKDE] [[PDF](https://arxiv.org/pdf/2409.05202)]
 
 Huafeng Qin†, **Hongyu Zhu**, Xin Jin, Qun Song, Senior member, IEEE Mounim A. El-Yacoubi, and Fellow, IEEE Xinbo Gao.
 
-arXiv, 2024 [Submit to TIM (Minor Revision)] [[PDF](https://arxiv.org/pdf/2401.04956)]
+ IEEE Transactions on Instrumentation and Measurement, 2025 [[PDF](https://arxiv.org/pdf/2401.04956)]
 
 
 
