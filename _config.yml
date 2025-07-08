@@ -1,13 +1,13 @@
 # Site settings
 title: Hongyu Zhu's HomePage
-# baseurl: "/M.S"
+# baseurl: "/Ph.D"
 url: "https://HongyuZhu-s.github.io"
 # google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
   name: Hongyu Zhu (朱泓宇)
-  desc: M.S. Candidate | Chongqing, China
+  desc: Ph.D Candidate | Chongqing, China
   email: 734570533@qq.com
   selfie: assets/img/profile.jpg
 
