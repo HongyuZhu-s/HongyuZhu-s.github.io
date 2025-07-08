@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-# About Me （Updated January 2025）
+# About Me （Updated Sep. 2025）
 I am a doctoral student majoring in computer science at the Chongqing Green Intelligent Institute of **the Chinese Academy of Sciences University**, focusing on the algorithm design in Deep Learning. I am interested in **Multimodal Sentiment Analysis** and **Data Augmentation**.
 
 <i><b><font size=2px>Welcome to contacting me about research. Please drop me emails (734570533@qq.com) or WeChat me (DoDoDoDoDoZh).</font></b></i>
