@@ -83,7 +83,7 @@ Huafeng Qin * <sup>,</sup>†, Xin Jin *, **Hongyu Zhu** *, Hongchao Liao, Mouni
 
 Xin Jin *, **Hongyu Zhu** *, Mounim A. El-Yacoubi, Hongchao Liao, Huafeng Qin, and Yun Jiang†
 
-arXiv, 2024 [Submit to AAAI] [[PDF](https://arxiv.org/pdf/2405.12721)]
+*ISCBI, 2025* [[PDF](https://arxiv.org/pdf/2405.12721)]
 
 
 
