@@ -31,7 +31,7 @@ _(*: Equal Contribution. †: Corresponding Author.)_
 
  Huafeng Qin†, **Hongyu Zhu**, Xin Jin, Xin Yu, Mounim A. El-Yacoubi, and Shuqiang Yang
 
- IEEE Transactions on Instrumentation and Measurement, 2025 [[PDF](https://arxiv.org/pdf/2409.14432)]
+ _IEEE Transactions on Instrumentation and Measurement, 2025_ [[PDF](https://arxiv.org/pdf/2409.14432)]
 
 
 
@@ -39,7 +39,7 @@ _(*: Equal Contribution. †: Corresponding Author.)_
 
 Xin Jin *, **Hongyu Zhu** *, Siyuan Li *, Zedong Wang, Zicheng Liu, Chang Yu, Huafeng Qin, and IEEE Fellow Stan. Z. Li†
 
-ArXiv, 2025 [ACM Computing Surveys (Major revision)] [[PDF](https://arxiv.org/pdf/2409.05202)]
+_ArXiv, 2025-ACM Computing Surveys (Major revision)_ [[PDF](https://arxiv.org/pdf/2409.05202)]
 
 
 
@@ -49,7 +49,7 @@ ArXiv, 2025 [ACM Computing Surveys (Major revision)] [[PDF](https://arxiv.org/pd
 
 Huafeng Qin†, **Hongyu Zhu**, Xin Jin, Qun Song, Senior member, IEEE Mounim A. El-Yacoubi, and Fellow, IEEE Xinbo Gao.
 
- IEEE Transactions on Instrumentation and Measurement, 2025 [[PDF](https://arxiv.org/pdf/2401.04956)]
+_IEEE Transactions on Instrumentation and Measurement_, 2025 [[PDF](https://arxiv.org/pdf/2401.04956)]
 
 
 
@@ -95,6 +95,13 @@ arXiv, 2024 [Submit to AAAI] [[PDF](https://arxiv.org/pdf/2405.12721)]
 
 
 # Patent 📝
+* **一种脑启发式多专家多模态情感识别方法及系统、设备、介质**
+
+发明(设计)人：陈琳, **朱泓宇**, 龚治岗, 尚明生
+
+[专利号：ZL202610055976.1]
+
+
 * **一种基于Transformer和LSTM混合网络的眼动识别方法**
 
 发明(设计)人：秦华锋，**朱泓宇**，金 鑫，吴燚权，廖洪超，章勤，杨开元
