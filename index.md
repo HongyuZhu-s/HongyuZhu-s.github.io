@@ -91,7 +91,7 @@ Xin Jin *, **Hongyu Zhu** *, Mounim A. El-Yacoubi, Hongchao Liao, Huafeng Qin, a
 
 **Hongyu Zhu** *, Xin Jin *, Hongchao Liao, Yan Xiang, Mounim A. El-Yacoubi, Huafeng Qin†
 
-**CCBR 2024**  [[PDF](https://arxiv.org/pdf/2409.11652)]
+*CCBR 2024*  [[PDF](https://arxiv.org/pdf/2409.11652)]
 
 
 # Patent 📝
