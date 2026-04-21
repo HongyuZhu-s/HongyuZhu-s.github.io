@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me （Updated Sep. 2025）
-I am a doctoral student majoring in computer science at the Chongqing Green Intelligent Institute of **the Chinese Academy of Sciences University**, focusing on the algorithm design in Deep Learning. I am interested in **Multimodal Sentiment Analysis** and **Data Augmentation**.
+I'm a doctoral student majoring in computer science at the Chongqing Green Intelligent Institute of **the Chinese Academy of Sciences University**, focusing on the algorithm design in Deep Learning. I am interested in **Multimodal Sentiment Analysis** and **Data Augmentation**.
 
 <i><b><font size=2px>Welcome to contacting me about research. Please drop me emails (734570533@qq.com) or WeChat me (DoDoDoDoDoZh).</font></b></i>
 
@@ -18,7 +18,7 @@ I am a doctoral student majoring in computer science at the Chongqing Green Inte
 
 * _2024.06-2024.09_ , Research Intern | Westlake University
   
-* _2025.09-   now   , Doctor's degree (博士) | Univerity of Chinese Academy of Sciences       
+* _2025.09-   now   , Doctoral Candidate (博士生) | Univerity of Chinese Academy of Sciences       
 
 <br/>
 
@@ -39,7 +39,7 @@ _(*: Equal Contribution. †: Corresponding Author.)_
 
 Xin Jin *, **Hongyu Zhu** *, Siyuan Li *, Zedong Wang, Zicheng Liu, Chang Yu, Huafeng Qin, and IEEE Fellow Stan. Z. Li†
 
-arXiv, 2024 [Submit to TKDE] [[PDF](https://arxiv.org/pdf/2409.05202)]
+ArXiv, 2025 [ACM Computing Surveys (Major revision)] [[PDF](https://arxiv.org/pdf/2409.05202)]
 
 
 
@@ -57,6 +57,20 @@ Huafeng Qin†, **Hongyu Zhu**, Xin Jin, Qun Song, Senior member, IEEE Mounim A.
 
 ## Conferences:
 
+* **BiMoE: Brain-Inspired Experts for EEG-Dominant Affective State Recognition**
+
+Hongyu Zhu, Lin Chen, Mingsheng Shang†
+
+*ICME 2026* [[PDF](https://arxiv.org/html/2603.29205)]
+
+
+* **MS-Mix: Sentiment-Guided Adaptive Augmentation for Multimodal Sentiment Analysis**
+
+Hongyu Zhu, Lin Chen, Xin Jin, Mingsheng Shang†
+
+*Submit to ACM MM 2026* [[PDF](https://arxiv.org/pdf/2510.11579)]
+
+
 * **SUMix: Mixup with Semantic and Uncertain Information**
 
 Huafeng Qin * <sup>,</sup>†, Xin Jin *, **Hongyu Zhu** *, Hongchao Liao, Mounim A. El-Yacoubi, IEEE Fellow Xinbo Gao
@@ -70,7 +84,6 @@ Huafeng Qin * <sup>,</sup>†, Xin Jin *, **Hongyu Zhu** *, Hongchao Liao, Mouni
 Xin Jin *, **Hongyu Zhu** *, Mounim A. El-Yacoubi, Hongchao Liao, Huafeng Qin, and Yun Jiang†
 
 arXiv, 2024 [Submit to AAAI] [[PDF](https://arxiv.org/pdf/2405.12721)]
-
 
 
 
